@@ -1,0 +1,7 @@
+# O pipeline.py usa apenas a biblioteca padrão do Python (csv, json, glob, math).
+# Nenhuma dependência é obrigatória para processar os dados.
+#
+# Opcional: CLI do Kaggle para baixar o dataset por linha de comando.
+#   pip install -r requirements.txt
+#   kaggle competitions download -c nfl-big-data-bowl-2025 -p bdb2025
+kaggle==1.6.17
