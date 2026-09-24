@@ -1,0 +1,33 @@
+﻿# ---- Cache de dados brutos (baixados pelo pipeline; nao versionar) ----
+nflverse/
+data/
+data/tracking/
+bdb2025/
+
+# ---- CSVs pesados de datasets (recriaveis; nao versionar) ----
+*.csv
+
+# ---- Backups locais / versoes antigas ----
+data_*_backup.js
+data_*_backup.json
+PGRScore.html
+
+# ---- Scripts temporarios / de sondagem ----
+_*.py
+_*.txt
+*.log
+
+# ---- Sistema operacional / editores ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ---- Python ----
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# NOTA: data.js e data.json SAO versionados de proposito, para que o site
+# abra por duplo-clique (index.html) sem precisar rodar o pipeline.
