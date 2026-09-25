@@ -1,6 +1,6 @@
 # PGRScore // NFL Analytics
 
-Protótipo web de análise da NFL com estética inspirada em jogos esportivos (EA Sports FC / PrizePicks).
+Protótipo web de análise da NFL com estética inspirada em jogos esportivos (EA Sports FC / Madden NFL).
 O site mostra estatísticas reais da temporada mais recente da NFL, um índice próprio (**PGRScore**, 40–99),
 e props over/under por jogador — tudo em HTML/CSS/JS puro, sem frameworks.
 
