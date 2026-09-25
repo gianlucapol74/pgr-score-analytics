@@ -61,7 +61,7 @@ natureza dos dados via `meta.statMode` e ajusta props, gráficos e modal.
 ## Créditos
 
 - Dados: [nflverse](https://github.com/nflverse) (licença aberta).
-- Protótipo desenvolvido para hackathon (Estácio / AWS).
+- Protótipo desenvolvido para hackathon (Estácio / AWS / NFL).
 
 ## Licença
 
